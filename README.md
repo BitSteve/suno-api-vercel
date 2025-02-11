@@ -76,7 +76,7 @@ You can choose your preferred deployment method:
 
 #### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgcui-art%2Fsuno-api&env=SUNO_COOKIE,TWOCAPTCHA_KEY,BROWSER,BROWSER_GHOST_CURSOR,BROWSER_LOCALE,BROWSER_HEADLESS&project-name=suno-api&repository-name=suno-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBitSteve%2Fsuno-api-vercel%26env%3DSUNO_COOKIE%2CTWOCAPTCHA_KEY%2CBROWSER%2CBROWSER_GHOST_CURSOR%2CBROWSER_LOCALE%2CBROWSER_HEADLESS%26project-name%3Dsuno-api-vercel%26repository-name%3Dsuno-api-vercel)
 
 #### Run locally
 
